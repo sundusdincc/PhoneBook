@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.exe
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.deps.json
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.dll
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.pdb
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.dll
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\obj\Debug\net6.0\refint\PhoneBookConsole.dll
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.pdb
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\PhoneBookConsole\obj\Debug\net6.0\ref\PhoneBookConsole.dll
